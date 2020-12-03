@@ -1,14 +1,12 @@
-# Readme
-
-## 中文文档
+# ReadeMe_CN
 
 
-## Getting Star
-Modify the value of `distributionUrl` in `android/gradle/wrapper/gradle-wrapper.properties` with your own path.
-![](_v_images/20201203214938325_19626.png)
+## 开始
+修改 `distributionUrl` 的值 `android/gradle/wrapper/gradle-wrapper.properties` 为你的路径。
+![](_v_images/20201203220523999_15146.png)
 
-## Learn
-If you're intersted in how to archieve this,you can learn from:
+## 学习
+如果你对如何实现感兴趣，可以关注以下：
 [Flutter自绘组件：微信悬浮窗（一）](https://www.jianshu.com/p/aa6ea0021495)
 [Flutter自绘组件：微信悬浮窗（二）](https://www.jianshu.com/p/f66cf75fccf2)
 [Flutter自绘组件：微信悬浮窗（三）](https://www.jianshu.com/p/dbff7b3dfc1d)
