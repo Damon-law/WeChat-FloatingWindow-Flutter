@@ -2,7 +2,7 @@
 
 
 ## 开始
-修改 `distributionUrl` 的值 `android/gradle/wrapper/gradle-wrapper.properties` 为你的路径。
+修改 `distributionUrl` 的值（ `android/gradle/wrapper/gradle-wrapper.properties`下） 为你的路径。
 ![](https://gitee.com/liuloser/images/raw/master/1607005396_20201203214938325_19626.png)
 
 ## 学习
