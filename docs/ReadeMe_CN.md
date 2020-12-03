@@ -3,7 +3,7 @@
 
 ## 开始
 修改 `distributionUrl` 的值 `android/gradle/wrapper/gradle-wrapper.properties` 为你的路径。
-![](_v_images/20201203220523999_15146.png)
+![](https://gitee.com/liuloser/images/raw/master/1607005396_20201203214938325_19626.png)
 
 ## 学习
 如果你对如何实现感兴趣，可以关注以下：
